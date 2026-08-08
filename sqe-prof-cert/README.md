@@ -2,11 +2,7 @@
 
 A collection of Software Quality Engineering (SQE) professional certifications syllabi, covering key areas such as Business Domain Testing, Technical Testing, Test Automation, Continuous Testing, and Test Management.
 
-SQE key areas
-
-![SQE key areas](sqe-areas.png)
-
-SQE Professional Certifications
+[SQE key areas](sqe-areas/README.md)
 
 ![SQE Professional Certifications](sqe-prof-cert.png)
 
