@@ -1,6 +1,6 @@
 # Professional Programs
 
-This repository contains professional diploma programs and professional certifications, including course structures, certification syllabi, and study plans.
+This repository contains professional programs and professional certifications, including program structures, certification syllabi, credential verification information and study plans.
 
 [ITI Professional Diploma – Software Development (SD) Track](iti-sd-track/README.md)
 

@@ -10,11 +10,13 @@ A collection of Software Quality Engineering (SQE) professional certifications s
 
 - [Syllabus](https://drive.google.com/file/d/1LcwdkSx1lzYnI6lc7b9m5D_ojnaxGNOd/view?usp=drive_link)
 - [Verify Certificate — ISTQB SCR](https://scr.istqb.org/) — **Credential ID:** `190620012`
+- [Verify Certificate — ESTB](https://estb.org.eg/English/Pages/ISTQBCertifiedTesters.aspx?ExamLevel=CTFL) — **Credential ID:** `190620012`
 
 ### ISTQB Agile Testing (CTFL-AT)
 
 - [Syllabus](https://drive.google.com/file/d/1H6IzDmTqE9qxKR0Q_G-rQ_t1z7Ho0X-1/view?usp=drive_link)
 - [Verify Certificate — ISTQB SCR](https://scr.istqb.org/) — **Credential ID:** `190807012`
+- [Verify Certificate — ESTB](https://estb.org.eg/English/Pages/ISTQBCertifiedTesters.aspx?ExamLevel=CTFL-AT) — **Credential ID:** `190807012`
 
 ### ISTQB Advanced Level Agile Technical Tester (CTAL-ATT)
 
@@ -39,7 +41,7 @@ A collection of Software Quality Engineering (SQE) professional certifications s
 - Syllabus: [Introduction and Testing Planning and Design](https://drive.google.com/file/d/11S-8_q7TYcxJKhihHCAnttDfMe4Qi93L/view?usp=drive_link) | 
 [REST API, gRPC, and graphQL](https://drive.google.com/file/d/1c7jQ5bpPqYXCr3r15j-lpqK3ZWjUQ3Mj/view?usp=drive_link) |
 [Environments, Tools, and Future Proofing](https://drive.google.com/file/d/1QrxS9aGwyvQR7bMQOJLo4h5Dahy9a5eM/view?usp=drive_link)
-- [Verify Certificate — AT*SQA](https://atsqa.org/certified-testers/profile/34a9b31a2750421bb3eaf3ccaab67d2b) — **Credential ID:** `26-AT*API-00013-USA`
+- [Verify Certificate — AT*SQA](https://atsqa.org/certified-testers/profile/34a9b31a2750421bb3eaf3ccaab67d2b)
 
 ### ISTQB Advanced Level Test Management (CTAL-TM)
 
