@@ -16,6 +16,10 @@ Test Automation & Continuous Testing
 
 ![Test Automation & Continuous Testing](automation-ct.png)
 
+AI-driven Testing
+
+![AI-driven Testing](ai-driven-testing.png)
+
 Test Management
 
 ![Test Management](test-management.png)

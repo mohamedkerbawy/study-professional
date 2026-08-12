@@ -43,6 +43,10 @@ A collection of Software Quality Engineering (SQE) professional certifications s
 [Environments, Tools, and Future Proofing](https://drive.google.com/file/d/1QrxS9aGwyvQR7bMQOJLo4h5Dahy9a5eM/view?usp=drive_link)
 - [Verify Certificate — AT*SQA](https://atsqa.org/certified-testers/profile/34a9b31a2750421bb3eaf3ccaab67d2b)
 
+### ISTQB Testing with Generative AI (CT-GenAI)
+
+- [Syllabus](https://drive.google.com/file/d/1zZfWlgRL3iLI-TeBhUMnVqbY0SXb0m9t/view?usp=drive_link)
+
 ### ISTQB Advanced Level Test Management (CTAL-TM)
 
 - [Syllabus](https://drive.google.com/file/d/1fYNixNSCyHWwusIH2iTNEWXQorUznPT9/view?usp=drive_link)

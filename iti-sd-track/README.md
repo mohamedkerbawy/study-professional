@@ -1,10 +1,12 @@
 # ITI Professional Diploma - SD Track
 
-Information Technology Institute (ITI), 9-Month Professional Diploma and Training Program, Software Engineering Department, Software Development Track (SD)
+Information Technology Institute ([ITI](https://iti.gov.eg/)) — 9-Month Professional Diploma and Training Scholarship Program, Software Engineering Department, Software Development Track (SD).
+
+The program focused on professional software development practices, including .NET Systems & Web Application Development and Database Development, along with soft skills training and hands-on experience with various technical tools and technologies.
 
 ![ITI Professional Diploma - SD Track](iti-sd-track.png)
 
-## Foundation Module
+### Foundation Module
 
 * Operating Systems Fundamentals
 * Computer Networks Fundamentals
@@ -20,7 +22,7 @@ Information Technology Institute (ITI), 9-Month Professional Diploma and Trainin
 * C++ Programming
 * HTML/XHTML & JavaScript and CSS
 
-## Focus Module
+### Focus Module
 
 * XML & Allied Technologies
 * Advanced JavaScript & DHTML
@@ -43,11 +45,11 @@ Information Technology Institute (ITI), 9-Month Professional Diploma and Trainin
 * .NET Mobile Applications
 * Web Servers Administration
 
-## Performance Module (Project)
+### Performance Module (Project)
 
 * [Project](grad-proj.md)
 
-## Soft skills & Languages
+### Soft skills & Languages
 
 * Communication skills
 * Presentation skills
