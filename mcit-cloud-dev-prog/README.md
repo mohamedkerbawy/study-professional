@@ -1,6 +1,8 @@
 # MCIT Advanced Cloud Developer Nanodegree Program
 
-A 3-Month Advanced Cloud Developer Nanodegree Program under the Future Work is Digital ([EgFWD](https://egfwd.com)) Scholarship, offered by the Ministry of Communications and Information Technology (MCIT), powered by the Information Technology Industry Development Agency ([ITIDA](www.itida.gov.eg)), with [Udacity](www.udacity.com) as the online learning platform.
+A 3-Month Advanced Cloud Developer Nanodegree Program under the Future Work is Digital ([EgFWD](https://egfwd.com)) Scholarship, offered by the Ministry of Communications and Information Technology (MCIT), powered by the Information Technology Industry Development Agency ([ITIDA](www.itida.gov.eg)), with [UDACITY](www.udacity.com) as the online learning platform.
+
+[Verify Certificate — UDACITY](https://www.udacity.com/certificate/e/c7ab89e4-1362-11ed-879a-935db9b4c30b)
 
 ![MCIT-EgFWD Advanced Cloud Developer Nanodegree Program](mcit-cloud-dev-prog.png)
 
